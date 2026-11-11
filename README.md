@@ -1,6 +1,6 @@
 # Hi, I'm Ali Imran 👋
 
-💻 **Frontend & Full-Stack Developer** · BSCS Student · Building projects and learning new technologies
+💻 **Frontend & Full-Stack Developer** · BSCS Student · Building projects and learning new technologies.
 
 I enjoy building web applications, creating developer tools, and exploring ways to make software more useful and user-friendly.
 
